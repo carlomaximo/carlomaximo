@@ -6,6 +6,10 @@ I plan to immortalize here stuff I built that I think other people will find hel
 
 I am currently studying computer programming at Sheridan College and slated to graduate this April 2025. I'm very interested in the field of geomatics, and I hope to be use it and be involved in disaster risk reduction and management in the future.
 
+I'm currently working on a campus map web app (someone hold me accountable pls, PM "where your web app at" whenever you're free)
+
+
+
 <!--
 **carlomaximo/carlomaximo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
