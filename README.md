@@ -7,7 +7,8 @@ I plan to immortalize here stuff I built that I think other people will find hel
 I graduated from Sheridan College with a diploma in computer programming. I'm very interested in the field of geomatics, and I hope to use it and be involved in disaster risk reduction and management in the future.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlomaximo)](https://github.com/carlomaximo/github-readme-stats)
-(yall this is not representative of who i am lol i mostly use python, java, and the MEAN stack)
+
+(yall this is not representative of who i am lol i mostly use python, java, and MEAN)
 
 <!--
 [![Carlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlomaximo)](https://github.com/carlomaximo/github-readme-stats)
