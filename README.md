@@ -7,8 +7,10 @@ I plan to immortalize here stuff I built that I think other people will find hel
 I graduated from Sheridan College with a diploma in computer programming. I'm very interested in the field of geomatics, and I hope to use it and be involved in disaster risk reduction and management in the future.
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlomaximo)](https://github.com/carlomaximo/github-readme-stats)
 <!--
+[![Carlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlomaximo)](https://github.com/carlomaximo/github-readme-stats)
+
 **carlomaximo/carlomaximo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
